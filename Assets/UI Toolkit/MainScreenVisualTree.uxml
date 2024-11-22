@@ -1,0 +1,11 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MenuStyles.uss?fileID=7433441132597879392&amp;guid=10d457af925afa04b86fe8d5774834ca&amp;type=3#MenuStyles" />
+    <engine:VisualElement style="flex-grow: 1; align-items: stretch;">
+        <engine:VisualElement style="flex-grow: 1;" />
+        <engine:VisualElement name="VisualElement" style="flex-grow: 1;">
+            <engine:Label text="Bear Doll" class="heading" />
+            <engine:Label text="You dit it!!" style="-unity-font-definition: url(&quot;project://database/Assets/UI%20Toolkit/Fonts/SonderSans-Black.otf?fileID=12800000&amp;guid=625a143c78f8b1d44be621ba8542e8d9&amp;type=3#SonderSans-Black&quot;); font-size: 80px; color: rgb(255, 255, 255); -unity-text-align: upper-center;" />
+        </engine:VisualElement>
+        <engine:VisualElement style="flex-grow: 1;" />
+    </engine:VisualElement>
+</engine:UXML>

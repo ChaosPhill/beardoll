@@ -1,0 +1,12 @@
+.heading {
+    -unity-font-definition: url("project://database/Assets/UI%20Toolkit/Fonts/SonderSlab-BlackRough.otf?fileID=12800000&guid=afbca14c8b1e9694a98db911add373fd&type=3#SonderSlab-BlackRough");
+    font-size: 200px;
+    -unity-text-align: upper-center;
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(255, 255, 255);
+    flex-wrap: wrap;
+    padding-left: 60px;
+    padding-right: 60px;
+    white-space: normal;
+}
