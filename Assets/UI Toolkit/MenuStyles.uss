@@ -9,4 +9,16 @@
     padding-left: 60px;
     padding-right: 60px;
     white-space: normal;
+    letter-spacing: -8px;
 }
+
+.button {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    -unity-font-definition: url("project://database/Assets/UI%20Toolkit/Fonts/SonderSans-Black.otf?fileID=12800000&guid=625a143c78f8b1d44be621ba8542e8d9&type=3#SonderSans-Black");
+    font-size: 50px;
+    height: 118px;
+}
+
