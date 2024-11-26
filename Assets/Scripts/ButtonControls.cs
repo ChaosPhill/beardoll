@@ -37,8 +37,4 @@ public class ButtonControls : MonoBehaviour
         }
     }
 
-    public void TestDouble(GameObject piece, Button button)
-    {
-
-    }
 }
